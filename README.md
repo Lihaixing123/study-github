@@ -9,3 +9,7 @@
 
 ## 关于我
 正在零基础学习 GitHub。
+
+## 今天学了什么
+- git clone：把云端仓库拉到本地
+- git add / commit / push：把改动送回云端
