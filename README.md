@@ -22,4 +22,4 @@
 # \## 我的第一次核心循环
 
 今天是第 2 天，我亲手走了 clone → add → commit → push。
-
+pull 也学会了
