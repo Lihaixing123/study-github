@@ -23,3 +23,8 @@
 
 今天是第 2 天，我亲手走了 clone → add → commit → push。
 pull 也学会了
+
+
+
+\- 我在 lesson3 分支上学会了开启分支
+
