@@ -30,3 +30,5 @@ pull 也学会了
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+<img width="857" height="852" alt="img" src="https://github.com/user-attachments/assets/edfdf96c-81e0-4659-836e-b111dc749db6" />
