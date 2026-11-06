@@ -1,34 +1,11 @@
 # study-github
 
-我的第一个 GitHub 仓库，用来练习 Git 和 GitHub。
+Git / GitHub 零基础学习记录，每天一次 commit。目标：能独立维护一个自己的项目。
 
-## 学习计划
+## 学习进度
 
-* \[ ] 学会 clone / commit / push
-* \[ ] 建一个自己的小项目
-* \[ ] 给开源项目提第一个 PR
-
-## 关于我
-
-正在零基础学习 GitHub。
-
-## 今天学了什么
-
-* git clone：把云端仓库拉到本地
-* git add / commit / push：把改动送回云端
-
-
-
-# \## 我的第一次核心循环
-
-今天是第 2 天，我亲手走了 clone → add → commit → push。
-pull 也学会了
-
-
-
-\- 我在 lesson3 分支上学会了开启分支
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-<img width="857" height="852" alt="img" src="https://github.com/user-attachments/assets/edfdf96c-81e0-4659-836e-b111dc749db6" />
+- Day 1：SSH，把本地和 GitHub 接上
+- Day 2：核心循环，改动从本地走到云端
+- Day 3：branch，平行世界与合并
+- Day 4：.gitignore，让 git 不跟踪某些文件
+- Day 5：仓库装修，About / README / Pin
