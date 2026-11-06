@@ -28,3 +28,5 @@ pull 也学会了
 
 \- 我在 lesson3 分支上学会了开启分支
 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
